@@ -59,7 +59,7 @@ python train_unseen.py \
     --k_shot <k> \
     --dataset_name <dataset_name>
 ```
-* The code does NOT support multi-GPU processing in the current version but allows separate runs for different categories. For instance, execute a run for categories $[0, 8)$ on GPU:0 and execute another for categories $[8, 17)$ on GPU:1. The indices can be specified with `--classes=<start_idx>,<end_idx>`.
+* The code does NOT support multi-GPU processing in the current version but allows separate runs for different categories. For instance, execute a run for categories $[0, 8)$ on GPU:0 and execute another for categories $[8, 17)$ on GPU:1. The indices can be specified with `--classes=<start_idx>-<end_idx>`.
 * Results are saved in directory `<output_dir>/<run_dir>/few-shot_samples/magnitude=<magnitude-intensity>`. For each category, we randomly generate 128 images for quantitative evaluation.
 * Refer to the main definition in `train_unseen.py` for command examples.
 
