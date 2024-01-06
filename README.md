@@ -123,4 +123,4 @@ This project builds upon and has been inspired by the following repositories:
 
 We would like to thank the entire open-source community for fostering an environment of collaboration and knowledge sharing.
 ## License
-This repository is under [MIT license](https://github.com/chansey0529/LSO/LICENSES/LICENSE.txt).
+This repository is under [MIT license](https://github.com/chansey0529/LSO/blob/main/LICENSES/LICENSE.txt).
