@@ -1,7 +1,7 @@
-DATA_PATH = '../datasets_npy'
-CKPT_PATH = '../Conditional-StyleGAN_seen-ckpt'
-WS_PATH = '../II2S/outputs/inversion'
-IDCKPT_PATH = 'pretrained_models'
+DATA_PATH = ''
+CKPT_PATH = ''
+WS_PATH = ''
+IDCKPT_PATH = ''
 
 '''
 
