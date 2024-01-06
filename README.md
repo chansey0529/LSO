@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LSO
-Coming soon.
-=======
 # Latent Subspace Optimization
 
 The official Pytorch implementation of our paper Where is My Spot? Few-shot Image Generation via Latent Subspace Optimization, CVPR 2023.
@@ -128,4 +124,3 @@ This project builds upon and has been inspired by the following repositories:
 We would like to thank the entire open-source community for fostering an environment of collaboration and knowledge sharing.
 ## License
 This repository is under [MIT license](https://github.com/chansey0529/LSO/LICENSES/LICENSE.txt).
->>>>>>> c2fd1f6 (initial commit)
